@@ -1,2 +1,2 @@
-# react
+# react-shop
 curso de react
